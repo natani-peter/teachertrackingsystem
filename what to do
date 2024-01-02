@@ -1,0 +1,9 @@
+we have two people using the system ie administrators and users(teachers)
+
+users enter class and leave
+admins can
+    see which teacher is in which class
+    print reports daily, weekly and monthly to see teachers performance
+    add add teachers , subjects and classes through the django admin view
+
+when a teacher is entering in class we ask for his staff id, class stream and subject to teach
